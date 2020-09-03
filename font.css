@@ -1,0 +1,15 @@
+body {
+	overflow-y: scroll;
+	padding: 0;
+	margin: 0;
+	font-family: Multicolore Pro;
+	font-size: 22px;
+	width: 1000px;
+	margin: 30px auto;
+}
+
+@font-face {
+	font-family: "Multicolore Pro";
+	src: url('font.otf') format('opentype'),
+	url('font.otf') format('opentype');
+}
